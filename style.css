@@ -111,7 +111,7 @@ body {
    height: 20vh;
 }
 
-.bayan-item__input:checked ~ label .icon {
+.bayan-item__input:hover ~ label .icon {
    transform: rotate(-225deg);
 }
 
